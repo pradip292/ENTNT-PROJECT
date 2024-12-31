@@ -2,6 +2,10 @@
 
 This project is built using **Vite**, **React**, and **TypeScript** to provide a fast and efficient development environment.
 
+## **Deplyment Link** 
+Website : https://entnt-project-ten.vercel.app/
+
+
 ## **Getting Started**
 
 ### **Installation**
