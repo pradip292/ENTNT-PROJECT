@@ -95,5 +95,4 @@ This application is ready to deploy on **Vercel**. Follow these steps:
 
 ---
 
-Feel free to raise issues or contribute to the project for improvements!
 
